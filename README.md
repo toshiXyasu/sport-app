@@ -1,1 +1,1 @@
-# sport-app
+# sports-app
